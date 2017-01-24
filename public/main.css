@@ -1,0 +1,22 @@
+#everything {
+  flex-flow: flex
+}
+
+#main-map {
+  height: 640px;
+  width: 800px;
+  border: black solid 1px;
+  justify-content: left;
+}
+
+#buttons {
+justify-content: right;
+}
+
+#map {
+  border: black solid 1px;
+}
+
+#content {
+ border: black solid 1px;
+}
